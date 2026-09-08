@@ -1,4 +1,3 @@
-
 # Finding the Hypotenuse of a Right Triangle Using the Math Library
 
 ## Description
