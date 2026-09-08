@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31947738/README.md)
+
 # Finding the Hypotenuse of a Right Triangle Using the Math Library
 
 ## Description
