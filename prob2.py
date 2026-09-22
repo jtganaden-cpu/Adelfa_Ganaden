@@ -12,3 +12,6 @@ if 5 <= len(username) <= 10 and username.isalnum():
 else:
 # If either condition fails, the username is invalid
     print("Invalid username.")
+
+# Author: Arrhiana Kei M. Villareal
+# Section: Adelfa
