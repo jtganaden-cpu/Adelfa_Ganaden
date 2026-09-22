@@ -1,4 +1,4 @@
-# Student Age Validator
+# User Age Validator
 # Author: Princess Sofia H. Macala
 # Section: 8-Adelfa
 # Date: September 22, 2026
