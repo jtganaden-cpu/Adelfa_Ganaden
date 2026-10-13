@@ -6,7 +6,7 @@ def get_student_info():
     return name
 
 def evaluate_performance():
-    a1 = float(input("Enter Assessment 1: "))
+    a1 = float(input("Enter Assessment 1: ")) # Line 9 to 12 are local variables. Meaning, they only exist in this specific 
     a2 = float(input("Enter Assessment 2: "))
     a3 = float(input("Enter Assessment 3: "))
     average = (a1 + a2 + a3)/3
@@ -14,6 +14,7 @@ def evaluate_performance():
     return average
 
 def display_report(average, a1, a2, a3):
+    print()
     print("STUDENT PERFORMANCE REPORT")
     print()
     print(f"Student Name: {name}")
@@ -31,6 +32,6 @@ def display_report(average, a1, a2, a3):
         print("Performance Level: Needs Improvement")
 
 display_header()
-name = input("Enter student name: ")
+name = input("Enter student name: ") # My only global variable
 get_student_info()
 evaluate_performance()
